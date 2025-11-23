@@ -114,7 +114,3 @@ Mini-système CRUD de gestion de clients bancaires.
 
 📌 Ce dépôt représente ma progression dans la résolution de problèmes C++ et mon application des bonnes pratiques de programmation.  
 📌 Il sert aussi de référence personnelle pour maîtriser les algorithmes et la manipulation des données.
-
----
-
-✨ *N’hésite pas à ajouter des captures d’écran, un dossier “examples”, ou même à créer une section “comment exécuter le code” !*
